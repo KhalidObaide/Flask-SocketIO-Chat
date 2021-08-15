@@ -8,10 +8,10 @@ Based on `flask` and `socket.io`
 Simply just added some styles and made the website looks great.
  
 ### Features Added
-✅ Added some **styles** to the pages (chat, login)
-✅ Added an **Emoji Picker** to the chat input
-👌 In order to **split** the name from the message i changed the python file to have a long code
-👍 The website is ready to use in offline mode which is under a network **[TESTED] OK;**
+✅ Added some **styles** to the pages (chat, login)\
+✅ Added an **Emoji Picker** to the chat input\
+👌 In order to **split** the name from the message i changed the python file to have a long code\
+👍 The website is ready to use in offline mode which is under a network **[TESTED] OK;**\
 ✅ Changed the **host** to local IP address `0.0.0.0` and not the `127.0.0.1`
 
 ### Screenshots
